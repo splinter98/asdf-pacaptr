@@ -16,10 +16,8 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
 - `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `RTX_PACAPTR_VERSION=0.18.0`: set this environment variable in your shell config to load the correct version of tool 0.18.0.
 
 # Install
 
